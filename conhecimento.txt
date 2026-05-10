@@ -1,0 +1,156 @@
+Como abrir uma empresa?;empreendedorismo
+O que é inteligência artificial?;tecnologia
+Como escalar um negócio?;empreendedorismo
+O que é programação em python?;tecnologia
+Dicas para marketing digital;empreendedorismo
+Como funciona o blockchain?;tecnologia
+Como abrir um CNPJ?;empreendedorismo
+O que é uma startup?;empreendedorismo
+Como fazer um plano de negócios?;empreendedorismo
+O que é MVP?;empreendedorismo
+Como conseguir investidores?;empreendedorismo
+O que é lucro líquido?;empreendedorismo
+Como escalar minhas vendas?;empreendedorismo
+O que é marketing de afiliados?;empreendedorismo
+Como gerenciar o fluxo de caixa?;empreendedorismo
+O que é B2B e B2C?;empreendedorismo
+Como validar uma ideia de negócio?;empreendedorismo
+O que é networking?;empreendedorismo
+Como fazer um pitch de vendas?;empreendedorismo
+O que é ROI?;empreendedorismo
+Dicas para liderança de equipe;empreendedorismo
+Como funciona o Simples Nacional?;empreendedorismo
+O que é churn rate?;empreendedorismo
+Como definir meu público-alvo?;empreendedorismo
+O que é branding?;empreendedorismo
+Como fazer análise de concorrência?;empreendedorismo
+O que é inteligência artificial?;tecnologia
+Como aprender a programar?;tecnologia
+O que é Python?;tecnologia
+Como funciona a nuvem?;tecnologia
+O que é Blockchain?;tecnologia
+Como criar um aplicativo?;tecnologia
+O que é Big Data?;tecnologia
+Como funciona o ChatGPT?;tecnologia
+O que é cibersegurança?;tecnologia
+Como funciona o 5G?;tecnologia
+O que é Internet das Coisas?;tecnologia
+Como criar um site?;tecnologia
+O que é front-end e back-end?;tecnologia
+Como funciona um algoritmo?;tecnologia
+O que é banco de dados?;tecnologia
+Como proteger meus dados online?;tecnologia
+O que é realidade aumentada?;tecnologia
+Como funciona o aprendizado de máquina?;tecnologia
+O que é hardware e software?;tecnologia
+Como funciona a criptografia?;tecnologia
+O que é uma API?;tecnologia
+Como automatizar processos com IA?;tecnologia
+O que é código aberto?;tecnologia
+Como funciona o processamento de linguagem natural?;tecnologia
+O que é desenvolvimento ágil?;tecnologia
+Como funciona o metaverso?;tecnologia
+O que é computação quântica?;tecnologia
+Como usar ferramentas de CRM?;tecnologia
+O que é UX e UI design?;tecnologia
+Como otimizar um site para o Google?;tecnologia
+O que é bootstrapping?;empreendedorismo
+Como calcular o CAC?;empreendedorismo
+O que é LTV?;empreendedorismo
+Como fazer um sumário executivo?;empreendedorismo
+O que é economia criativa?;empreendedorismo
+Como funciona o regime de franquias?;empreendedorismo
+O que é um unicórnio no mundo das startups?;empreendedorismo
+Como gerenciar o tempo sendo empreendedor?;empreendedorismo
+O que é intraempreendedorismo?;empreendedorismo
+Como lidar com a falha nos negócios?;empreendedorismo
+O que é pivotar uma empresa?;empreendedorismo
+Como funciona o equity?;empreendedorismo
+O que é investidor anjo?;empreendedorismo
+Como proteger uma marca no INPI?;empreendedorismo
+O que é uma aceleradora?;empreendedorismo
+Como fazer o valuation de uma empresa?;empreendedorismo
+O que é growth hacking?;empreendedorismo
+Como funciona o dropshipping?;empreendedorismo
+O que é infoproduto?;empreendedorismo
+Como criar um funil de vendas?;empreendedorismo
+O que é design thinking?;empreendedorismo
+Como aplicar a metodologia lean?;empreendedorismo
+O que é prospecção ativa?;empreendedorismo
+Como fidelizar clientes?;empreendedorismo
+O que é jornada do cliente?;empreendedorismo
+Como funciona o coworking?;empreendedorismo
+O que é capital de giro?;empreendedorismo
+Como contratar os primeiros funcionários?;empreendedorismo
+O que é cultura organizacional?;empreendedorismo
+Como fazer parcerias estratégicas?;empreendedorismo
+O que é um plano de marketing?;empreendedorismo
+Como funciona o e-commerce?;empreendedorismo
+O que é sustentabilidade empresarial?;empreendedorismo
+Como gerir crises de imagem?;empreendedorismo
+O que é compliance?;empreendedorismo
+Como funciona o microempreendedor individual?;empreendedorismo
+O que é governança corporativa?;empreendedorismo
+Como fazer pesquisa de mercado?;empreendedorismo
+O que é ticket médio?;empreendedorismo
+Como otimizar a logística?;empreendedorismo
+O que é transformação digital?;tecnologia
+Como funciona o aprendizado profundo?;tecnologia
+O que é visão computacional?;tecnologia
+Como funciona o reconhecimento de voz?;tecnologia
+O que é processamento de borda?;tecnologia
+Como funciona a computação em nuvem?;tecnologia
+O que é SaaS?;tecnologia
+Como funciona o PaaS?;tecnologia
+O que é IaaS?;tecnologia
+Como criar um chatbot inteligente?;tecnologia
+O que é mineração de dados?;tecnologia
+Como funciona o SQL?;tecnologia
+O que é NoSQL?;tecnologia
+Como proteger um servidor?;tecnologia
+O que é firewall?;tecnologia
+Como funciona o protocolo HTTP?;tecnologia
+O que é uma rede neural?;tecnologia
+Como funciona o processador?;tecnologia
+O que é memória RAM?;tecnologia
+Como funciona o SSD?;tecnologia
+O que é Linux?;tecnologia
+Como funciona o Docker?;tecnologia
+O que é Kubernetes?;tecnologia
+Como funciona o Git?;tecnologia
+O que é GitHub?;tecnologia
+Como criar uma automação?;tecnologia
+O que é RPA?;tecnologia
+Como funciona o Wi-Fi 6?;tecnologia
+O que é realidade virtual?;tecnologia
+Como funciona o escaneamento 3D?;tecnologia
+O que é impressão 3D?;tecnologia
+Como funciona o GPS?;tecnologia
+O que é biometria?;tecnologia
+Como funciona o reconhecimento facial?;tecnologia
+O que é Deepfake?;tecnologia
+Como identificar uma fake news com IA?;tecnologia
+O que é algoritmo de recomendação?;tecnologia
+Como funciona o streaming?;tecnologia
+O que é compressão de dados?;tecnologia
+Como funciona o MP4?;tecnologia
+O que é latência?;tecnologia
+Como funciona a fibra ótica?;tecnologia
+O que é satélite de baixa órbita?;tecnologia
+Como funciona o Starlink?;tecnologia
+O que é biohacking?;tecnologia
+Como funciona o implante de chip?;tecnologia
+O que é robótica?;tecnologia
+Como funciona o sensor ultrassônico?;tecnologia
+O que é Arduino?;tecnologia
+Como usar o Raspberry Pi?;tecnologia
+O que é lógica de programação?;tecnologia
+Como funciona o compilador?;tecnologia
+O que é uma variável?;tecnologia
+Como funciona o loop?;tecnologia
+O que é uma função no código?;tecnologia
+Como criar um banco de dados?;tecnologia
+O que é criptomoeda?;tecnologia
+Como funciona o Bitcoin?;tecnologia
+O que é Ethereum?;tecnologia
+Como funciona a mineração de cripto?;tecnologia
